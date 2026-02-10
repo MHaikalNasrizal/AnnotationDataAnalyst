@@ -6,6 +6,6 @@ Built an Autonomous Vehicle Annotation Tracking System using SQL to analyze anno
 - Daily Output
 - Weekly Client KPI Generation
 
-#Tools
+# Tools
 MySQL
 
