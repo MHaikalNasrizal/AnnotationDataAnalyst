@@ -9,4 +9,4 @@ Built an Autonomous Vehicle Annotation Tracking System using SQL to analyze anno
 # Tools
 MySQL
 # Dashboard Example
-![alt text](https://github.com/MHaikalNasrizal/AnnotationDataAnalyst/blob/main/Dashboard.png) "Dashboard PowerBI")
+![alt text](https://github.com/MHaikalNasrizal/AnnotationDataAnalyst/blob/main/Dashboard.png) "Dashboard PowerBI"
